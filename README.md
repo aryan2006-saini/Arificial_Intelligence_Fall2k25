@@ -42,11 +42,3 @@ Faculty: [Dr. Arun Chauhan](https://github.com/aruntakhur)
 | 15–16 | Revision & Presentations | CLO1–4 |
 
 ---
-
-## 📊 Assessments
-- Continuous Assessment (15 marks)  
-- Internal Tests (20 marks)  
-- Mid-Term (15 marks)  
-- End-Term (50 marks)  
-
----
